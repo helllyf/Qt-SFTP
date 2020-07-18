@@ -1,5 +1,5 @@
 # Qt-SFTP
-Qt Based SFTP,Contained Qt4 and Qt5 version
+SFTP based on Qt, includes Qt4 and Qt5 version
 
 # 基本功能：
 1.功能实现了指定文件后缀名定时上传功能。   
